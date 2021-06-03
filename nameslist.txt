@@ -1,4 +1,4 @@
-john 
+
 peter
 rose
 henry
